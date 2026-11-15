@@ -1,3 +1,9 @@
+![The farmhouse and yard](screenshots/farmhouse.jpg)
+
+| | | |
+| --- | --- | --- |
+| ![The chicken coop](screenshots/chicken-coop.jpg) | ![The farmhouse porch](screenshots/porch.jpg) | ![The pond](screenshots/pond.jpg) |
+
 Run a little chicken farm, then explore the whole county of **Meadowshire**: three towns, rolling countryside, a funfair, a castle ruin, a lake and the sea. You can walk, cycle, drive or take the bus between them.
 
 It's a single HTML file built with [three.js](https://threejs.org/). There's no install, no build step and no dependencies to download.
